@@ -1,0 +1,13 @@
+html{
+  position: relative;
+}
+
+html,body{
+  min-width: 1100px;
+  color: #2c2c2c;
+  background: #fff;
+  font-size: 14px;
+  font-family: Helvetica, "Pingfang SC", "Microsoft YaHei", STHeiti, Verdana, Arial, Tahoma, sans-serif;
+}
+
+
